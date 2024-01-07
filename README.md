@@ -15,8 +15,9 @@
     <img src="https://img.shields.io/github/issues/iamunixtz/Linux-Ngrok.svg?style=for-the-badge" alt="Issues">
   </a>
   <a href="https://github.com/iamunixtz/Linux-Ngrok/releases">
-    <img src="https://img.shields.io/github/downloads/iamunixtz/Linux-Ngrok/total.svg?style=for-the-badge" alt="Downloads">
-  </a>
+  <img src="https://img.shields.io/github/downloads/iamunixtz/Linux-Ngrok/total.svg?style=for-the-badge" alt="Downloads">
+</a>
+
 </p>
 
 # Linux-Ngrok

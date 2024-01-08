@@ -33,21 +33,28 @@ Linux-Ngrok simplifies the installation process of Ngrok on multiple Linux-based
 
 ### Termux
 ```bash
-dpkg --print-architecture
+apt update & apt upgrade
+pkg install git
+pkg install python 
+git clone https://github.com/iamunixtz/Linux-Ngrok/
+cd Linux-Ngrok
+bash install.sh
+python LinuxNgrok.py
 ```
-### Debian[Kali Linux ,Ubuntu ,other]
+### Linxu OS
+```bash
+apt update
+pkg install python
+pkg install git
+git clone
+cd opt/
+https://github.com/iamunixtz/Linux-Ngrok/
+cd Linux-Ngrok
+bash install.sh
+python3 LinuxNgrok.py
 ```
-dpkg --print-architecture
-```
-### OSX(MacOS)
-```
-uname -m
-```
-### RedHat ,CentOS
-```
-uname -m
-```
-### Manjaro
-```
-uname -m
-```
+### Tested On Termux and Kali Linux
+Be our first tester on your OS and write your thought the tool.
+✋️**Before You install the Ngrok on Your Machine first Check Your system aarch**✋️
+
+### Thanks To Our Contributor 

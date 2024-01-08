@@ -17,10 +17,37 @@
   <a href="https://github.com/iamunixtz/Linux-Ngrok/releases">
   <img src="https://img.shields.io/github/downloads/iamunixtz/Linux-Ngrok/total.svg?style=for-the-badge" alt="Downloads">
 </a>
-
 </p>
 
 # Linux-Ngrok
+
 ![LINUX-NGROK BANNER](https://github.com/iamunixtz/Linux-Ngrok/blob/main/LINUX-NGROK.png)
 
-**This simple tool automates the installation of Ngrok on Linux, Ubuntu, Termux, and more operating systems.**
+**Automate Ngrok Installation on various Linux distributions, Ubuntu, Termux, and more.**
+
+## Introduction
+
+Linux-Ngrok simplifies the installation process of Ngrok on multiple Linux-based operating systems. Whether you are using Linux, Ubuntu, Termux, or other distributions, this tool ensures a hassle-free Ngrok setup.
+
+## Ngrok Installation Commands for Different Operating Systems
+
+### Termux
+```bash
+dpkg --print-architecture
+```
+### Debian[Kali Linux ,Ubuntu ,other]
+```
+dpkg --print-architecture
+```
+### OSX(MacOS)
+```
+uname -m
+```
+### RedHat ,CentOS
+```
+uname -m
+```
+### Manjaro
+```
+uname -m
+```

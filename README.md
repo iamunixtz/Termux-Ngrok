@@ -19,9 +19,9 @@
 </a>
 </p>
 
-# Linux-Ngrok
+# Termux-Ngrok
 
-![LINUX-NGROK BANNER](https://github.com/iamunixtz/Linux-Ngrok/blob/main/TERMUX-NGROK.png)
+![Termux-NGROK BANNER](https://github.com/iamunixtz/Linux-Ngrok/blob/main/TERMUX-NGROK.png)
 
 **Automate Ngrok Installation on various Linux distributions, Ubuntu, Termux, and more.**
 

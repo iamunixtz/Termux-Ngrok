@@ -23,7 +23,7 @@
 
 ![Termux-NGROK BANNER](https://github.com/iamunixtz/Linux-Ngrok/blob/main/TERMUX-NGROK.png)
 
-**Automate Ngrok Installation on various Linux distributions, Ubuntu, Termux, and more.**
+**Automate Ngrok Installation on Termux.**
 
 ## Introduction
 
